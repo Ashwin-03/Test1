@@ -17,6 +17,7 @@ body{
 	background: url("./Images/background.png");
 	background-size: cover;
 	background-repeat: no-repeat;
+	opacity:0.9;
 }
 
 header{
@@ -99,7 +100,7 @@ header .logo img{
 	font-weight: 400;
 	font-style: italic;
 	font-size: 34px;
-	color: rgba(255, 255, 255, 0.829);
+	color: rgba(150, 150, 255, 0.829);
 	letter-spacing: 3px;
 	text-transform: uppercase;
 }
@@ -109,7 +110,7 @@ header .logo img{
 	font-weight: 900;
 	font-style: italic;
 	font-size: 90px;
-	color: #f2d280;
+	color:#f2d280;
 }
 
 .main-one .subtitle{
@@ -127,7 +128,7 @@ header .logo img{
 	color: whitesmoke;
 	font-size: 24px;
 	font-family: 'Roboto', sans-serif;
-	padding: 7px, 25px;
+	padding: 7px 25px;
 	border-radius: 25px;
 	margin-top: 50px;
 	cursor: pointer;
